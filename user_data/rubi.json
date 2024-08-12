@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "fullName": "Rubi Dubi",
+  "age": 13,
+  "username": "rubi",
+  "password": "rubipudela",
+  "books": {},
+  "isLoggedIn": false
+}

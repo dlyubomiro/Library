@@ -1,0 +1,38 @@
+{
+  "id": 0,
+  "fullName": "rubaka",
+  "age": 14,
+  "username": "rubka",
+  "password": "B",
+  "books": {
+    "Chasing Rubi": {
+      "id": "ZkB9rpLaJ3IC",
+      "isbn": "0976476525",
+      "title": "Chasing Rubi",
+      "authors": [
+        "Marty Wall",
+        "Isabella Wall",
+        "Robert Bruce Woodcox"
+      ],
+      "publishedDate": "2005",
+      "description": "sladka rubi",
+      "pagesCount": 251,
+      "isRead": false,
+      "rate": 6
+    },
+    "Harry Potter and the Sorcerer\u0027s Stone": {
+      "id": "wrOQLV6xB-wC",
+      "isbn": "1781100489",
+      "title": "Harry Potter and the Sorcerer\u0027s Stone",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "publishedDate": "2015-12-08",
+      "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter \u0027H\u0027. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry\u0027s eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+      "pagesCount": 311,
+      "isRead": false,
+      "rate": 0
+    }
+  },
+  "isLoggedIn": true
+}

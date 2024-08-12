@@ -1,0 +1,28 @@
+er 'pepi' performed action 'register'
+User 'pepe' performed action 'register' [2024-02-10 11:45:39] 
+ser 'pepi' : 'logIn' [11:57:04 2024-02-10]
+User 'pepi' : 'logIn' [12:00:04 2024-02-10] 
+User 'pepi' : 'Added book by title' [12:00:32 2024-02-10] 
+User 'pepi' : 'Book{id='wrOQLV6xB-wC,|isbn='1781100489,|title='Harry Potter and the Sorcerer's Stone,|authors=[J.K. Rowling],|publishedDate='2015-12-08,|description='Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'. Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin! Having become classics of our time, the Harry Potter eBooks never fail to bring comfort and escapism. With their message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.,|pagesCount=311}' [12:00:54 2024-02-10] 
+User 'pepi' : 'Book removed successfully' [12:01:01 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [12:22:15 2024-02-10] 
+User 'pepi' executed command: 'RATE' Unsuccessful rating [12:23:23 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [12:25:33 2024-02-10] 
+User 'pepi' executed command: 'RATE' Unsuccessful rating [12:25:39 2024-02-10] 
+User 'pepi' executed command: 'RATE' Unsuccessful rating [12:25:50 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [12:27:05 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [12:33:45 2024-02-10] 
+User 'pepi' executed command: 'ADD' with attribute 'title' and value 'harry potter' [12:33:54 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [12:34:45 2024-02-10] 
+User 'pepi' executed command: 'ADD' Adding book by title not successful [12:35:01 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [12:56:59 2024-02-10] 
+User 'pepi' executed command: 'ADD' with attribute 'title' and value 'boro' [12:57:07 2024-02-10] 
+User 'pepi' executed command: 'SEARCH' Successful [12:57:21 2024-02-10] 
+User 'pepi' executed command: 'REMOVE' with attribute 'title' and value 'An Introduction to the Boro Language' [12:57:30 2024-02-10] 
+User 'pepi' executed command: 'edit' Unsuccessful editing [12:58:06 2024-02-10] 
+User 'pepi' executed command: 'logIn' Login successful! [13:23:39 2024-02-10] 
+User 'pepi' executed command: 'ADD' with attribute 'title' and value 'harry potter' [13:23:59 2024-02-10] 
+User 'pepe' executed command: 'logIn' Login successful! [13:41:47 2024-02-10] 
+ [13:49:35 2024-02-10] User 'pepe' executed command: 'logIn' Login successful!
+ [13:49:41 2024-02-10] User 'pepe' executed command: 'ADD' with attribute 'title' and value 'boro'
+ [13:49:50 2024-02-10] User 'pepe' executed command: 'SEARCH' Unsuccessful

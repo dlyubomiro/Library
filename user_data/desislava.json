@@ -1,0 +1,23 @@
+{
+  "id": 0,
+  "fullName": "desislava lyubomirova",
+  "age": 20,
+  "username": "desislava",
+  "password": "STU",
+  "books": {
+    "Harry Potter and the Goblet of Fire (Harry Potter, Book 4)": {
+      "id": "BvRLzwEACAAJ",
+      "isbn": "9781338878950",
+      "title": "Harry Potter and the Goblet of Fire (Harry Potter, Book 4)",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "publishedDate": "2023-05-02",
+      "description": "Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup with Hermione, Ron, and the Weasleys. He wants to dream about Cho Chang, his crush (and maybe do more than dream). He wants to find out about the mysterious event involving two other rival schools of magic, and a competition that hasn\u0027t happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. Unfortunately for Harry Potter, he\u0027s not normal - even by wizarding standards. And in this case, different can be deadly.",
+      "pagesCount": 0,
+      "isRead": true,
+      "rate": 5
+    }
+  },
+  "isLoggedIn": true
+}

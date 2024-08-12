@@ -1,0 +1,195 @@
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [12:55:49 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [12:55:49 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [12:55:49 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [12:55:49 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [12:55:49 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [12:55:49 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [12:55:49 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [12:55:49 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [12:55:49 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [13:54:00 2024-02-12] testMessage
+ [13:54:00 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [13:54:00 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [13:54:03 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [13:54:03 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [13:54:03 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [13:54:03 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [13:54:03 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [13:54:03 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [13:54:03 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [13:54:03 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [13:54:03 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [14:03:53 2024-02-12] testMessage
+ [14:03:53 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [14:03:53 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [14:03:56 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [14:03:56 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [14:03:56 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [14:03:56 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [14:03:56 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [14:03:56 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:03:56 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:03:56 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [14:03:56 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [14:14:49 2024-02-12] testMessage
+ [14:14:49 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [14:14:49 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [14:14:52 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [14:14:52 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [14:14:52 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [14:14:52 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [14:14:52 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [14:14:52 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:14:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:14:52 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [14:14:52 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [14:19:49 2024-02-12] testMessage
+ [14:19:49 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [14:19:49 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [14:19:50 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [14:19:51 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [14:19:51 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [14:19:51 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [14:19:51 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [14:19:51 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [14:19:52 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [14:19:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [14:19:52 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [14:19:52 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [14:19:52 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [14:19:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:19:52 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:19:52 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [14:19:52 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [14:20:12 2024-02-12] testMessage
+ [14:20:12 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [14:20:12 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [14:20:14 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [14:20:16 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [14:20:16 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [14:20:16 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [14:20:16 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [14:20:16 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [14:20:16 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [14:20:16 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [14:20:16 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [14:20:16 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [14:20:16 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [14:20:16 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:20:16 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [14:20:16 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [14:20:16 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [18:03:37 2024-02-12] testMessage
+ [18:03:37 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [18:03:37 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [18:03:40 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [18:03:42 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [18:03:42 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [18:03:42 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [18:03:42 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [18:03:42 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [18:03:42 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [18:03:42 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [18:03:42 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [18:03:42 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [18:03:42 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [18:03:42 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [18:03:42 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [18:03:42 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [18:03:42 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [18:08:44 2024-02-12] testMessage
+ [18:08:44 2024-02-12] User 'testUser' executed command: 'testCommand' testMessage
+ [18:08:44 2024-02-12] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [18:08:48 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'author' and value 'Jane Austen'
+ [18:08:50 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by author not successful
+ [18:08:50 2024-02-12] User 'username' executed command: 'register' Register successful!
+ [18:08:50 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [18:08:50 2024-02-12] User 'username' executed command: 'SEARCH' Unsuccessful
+ [18:08:50 2024-02-12] User 'username' executed command: 'SEARCH' Successful
+ [18:08:50 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [18:08:50 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [18:08:50 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [18:08:50 2024-02-12] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [18:08:50 2024-02-12] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [18:08:50 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [18:08:50 2024-02-12] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [18:08:50 2024-02-12] User 'username' executed command: 'edit' Unsuccessful editing
+ [18:08:50 2024-02-12] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [10:37:03 2024-02-13] testMessage
+ [10:37:03 2024-02-13] User 'testUser' executed command: 'testCommand' testMessage
+ [10:37:03 2024-02-13] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [10:37:03 2024-02-13] User 'username' executed command: 'register' Register successful!
+ [10:37:03 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [10:37:03 2024-02-13] User 'username' executed command: 'SEARCH' Unsuccessful
+ [10:37:03 2024-02-13] User 'username' executed command: 'SEARCH' Successful
+ [10:37:03 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [10:37:03 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [10:37:03 2024-02-13] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [10:37:03 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [10:37:03 2024-02-13] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [10:37:03 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [10:37:03 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [10:37:03 2024-02-13] User 'username' executed command: 'edit' Unsuccessful editing
+ [10:37:03 2024-02-13] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [11:25:00 2024-02-13] testMessage
+ [11:25:00 2024-02-13] User 'testUser' executed command: 'testCommand' testMessage
+ [11:25:00 2024-02-13] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [11:25:00 2024-02-13] User 'username' executed command: 'register' Register successful!
+ [11:25:00 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [11:25:00 2024-02-13] User 'username' executed command: 'SEARCH' Unsuccessful
+ [11:25:00 2024-02-13] User 'username' executed command: 'SEARCH' Successful
+ [11:25:00 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [11:25:00 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [11:25:00 2024-02-13] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [11:25:00 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [11:25:00 2024-02-13] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [11:25:00 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [11:25:00 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [11:25:00 2024-02-13] User 'username' executed command: 'edit' Unsuccessful editing
+ [11:25:00 2024-02-13] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [11:25:57 2024-02-13] testMessage
+ [11:25:57 2024-02-13] User 'testUser' executed command: 'testCommand' testMessage
+ [11:25:57 2024-02-13] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [11:25:57 2024-02-13] User 'username' executed command: 'register' Register successful!
+ [11:25:57 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'author' and value 'Jane Austen'
+ [11:25:57 2024-02-13] User 'username' executed command: 'SEARCH' Unsuccessful
+ [11:25:57 2024-02-13] User 'username' executed command: 'SEARCH' Successful
+ [11:25:57 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'ISBN' and value '000'
+ [11:25:57 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by title not successful
+ [11:25:57 2024-02-13] User 'mimi03' executed command: 'ADD' with attribute 'title' and value 'Harry Potter and the Goblet of Fire'
+ [11:25:57 2024-02-13] User 'username' executed command: 'REMOVE' with attribute 'title' and value 'initial title'
+ [11:25:57 2024-02-13] User 'mimi03' executed command: 'ADD' with attribute 'ISBN' and value '9781840225563'
+ [11:25:57 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [11:25:57 2024-02-13] User 'mimi03' executed command: 'ADD' Adding book by ISBN not successful
+ [11:25:57 2024-02-13] User 'username' executed command: 'edit' Unsuccessful editing
+ [11:25:57 2024-02-13] User 'username' executed command: 'edit' with attribute 'isRead' and value 'yes'
+ [11:38:04 2024-02-13] testMessage
+ [11:38:04 2024-02-13] User 'testUser' executed command: 'testCommand' testMessage
+ [11:38:04 2024-02-13] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
+ [17:32:15 2024-02-13] testMessage
+ [17:32:15 2024-02-13] User 'testUser' executed command: 'testCommand' testMessage
+ [17:32:15 2024-02-13] User 'testUser' executed command: 'testCommand' with attribute 'testAttribute' and value 'testValue'
